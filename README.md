@@ -13,15 +13,15 @@ Please, check the contents bellow for more.
 
 ---
 ## Contents <p id="contents"></p>
-- <a href="https://github.com/KattsonBastos/ml-with-airflow/tree/main/01_core_concepts.md#core_concepts">Airflow: walking through some core concepts</a>
-    - <a href="https://github.com/KattsonBastos/ml-with-airflow/tree/main/01_core_concepts.md#a1">What Airflow is?</a>
-    - <a href="https://github.com/KattsonBastos/ml-with-airflow/tree/main/01_core_concepts.md#a2">What is a DAG?</a>
-    - <a href="https://github.com/KattsonBastos/ml-with-airflow/tree/main/01_core_concepts.md#a3">Underlying Components</a>
-    - <a href="https://github.com/KattsonBastos/ml-with-airflow/tree/main/01_core_concepts.md#a4">Tasks and Operators</a>
+- <a href="https://github.com/KattsonBastos/ml-with-airflow/blob/main/study-notes/01_core_concepts.md#core_concepts">Airflow: walking through some core concepts</a>
+    - <a href="https://github.com/KattsonBastos/ml-with-airflow/blob/main/study-notes/01_core_concepts.md#a1">What Airflow is?</a>
+    - <a href="https://github.com/KattsonBastos/ml-with-airflow/blob/main/study-notes/01_core_concepts.md#a2">What is a DAG?</a>
+    - <a href="https://github.com/KattsonBastos/ml-with-airflow/blob/main/study-notes/01_core_concepts.md#a3">Underlying Components</a>
+    - <a href="https://github.com/KattsonBastos/ml-with-airflow/blob/main/study-notes/01_core_concepts.md#a4">Tasks and Operators</a>
 
-- <a href="https://github.com/KattsonBastos/ml-with-airflow/tree/main/02_ml_workflows.md#ml_workflow">Machine Learning Workflows: an overview</a> (TODO)
+- <a href="https://github.com/KattsonBastos/ml-with-airflow/blob/main/study-notes/02_ml_workflows.md#ml_workflow">Machine Learning Workflows: an overview</a> (TODO)
 
-- <a href="https://github.com/KattsonBastos/ml-with-airflow/tree/main/03_airflow_in_ml.md#airflow_ml">The Role of Airflow in ML Workflows</a> (TODO)
+- <a href="https://github.com/KattsonBastos/ml-with-airflow/blob/main/study-notes/03_airflow_in_ml.md#airflow_ml">The Role of Airflow in ML Workflows</a> (TODO)
 
 - Practices (TODO)
     - Instalation and First Dag (TODO)
