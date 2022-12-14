@@ -17,7 +17,7 @@ dag = DAG(
     dag_id = 'hello_world',
     description='Hello World DAG',
     schedule_interval='0 12 * * *', # the interval in which the dag will be executed
-    start_date=datetime.datetime.today(), # its a timestemp mainly used in the attempt t obackfill
+    start_date=datetime.today(), # its a timestemp mainly used in the attempt t obackfill
     catchup=False # interval in which the DAG will try to execute again past paused runs
 )
 
