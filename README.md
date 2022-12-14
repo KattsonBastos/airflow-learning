@@ -25,7 +25,7 @@ Please, check the contents bellow for more.
 
 - Practices (TODO)
     - Instalation and First Dag (TODO)
-
+    - Project 1: Simple ETL
 
 - More Topics Coming.. (TODO)
 
